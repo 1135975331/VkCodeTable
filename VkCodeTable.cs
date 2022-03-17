@@ -15,9 +15,9 @@
 		public const int CLEAR = 12;
 		public const int ENTER = 13;
 
-		public const int SHIFT       = 16; //Use L_SHIFT(160) or R_SHIFT(161) instead.
+		public const int SHIFT       = 16;  //Use L_SHIFT(160) or R_SHIFT(161) instead.
 		public const int CTRL        = 17;  //Use L_CTRL(162)  or R_CTRL(163)  instead.
-		public const int ALT         = 18;   //Use L_ALT(164)   or R_ALT(165)   instead.
+		public const int ALT         = 18;  //Use L_ALT(164)   or R_ALT(165)   instead.
 		public const int PAUSE       = 19;
 		public const int CAPS_LOCK   = 20;
 		public const int IME_HANGUEL = 21;  //IME_KANA == IME_HANGUEL == 21
